@@ -118,6 +118,14 @@ header a:hover {
 /* Social Icons */
 
 .social-icons {
+    font-size: 30px;
+    width: 80px;
+}
+.social-icons {
+    margin-right: 20px !important;
+}
+
+.social-icons {
   display: flex;
   align-items: center;
 }
