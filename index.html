@@ -14,6 +14,8 @@
        <style>
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
        </style>
+	   
+/* Navigation */
 
     <div class="nav-container">
       <div class="wrapper">
@@ -23,29 +25,59 @@
             <h1><p style="color:black; font-family: 'Raleway', sans-serif; size: "8">S.A.C. Solid State Society</p></h1>
           </div>
 
-          <ul class="nav-items">
-            <li>
-              <a href="http://space-cowboy1997.blogspot.com">blog</a>
-            </li>
+         <link rel="stylesheet" type="text/css" href="css/menumaker.css">
+	<style>
+		#cssmenu {
+			position: relative;
+			top: 80px;
+			margin: auto;
+		}
+	</style>
+</head>
+<body>
+	
+<div id="cssmenu">
+	<ul>
+		<li><a href="#">Home</a></li>
+		<li>
+			<a href="#">Products</a>
+			<ul>
+				<li><a href="#">Widgets</a></li>
+				<li>
+					<a href="#">Widgets 2</a>
+					<ul>
+						<li><a href="#">Plugins</a></li>
+						<li><a href="#">Extensions</a></li>
+						<li><a href="#">Modules</a></li>
+					</ul>
+				</li>
+				<li><a href="#">Support</a></li>
+				<li><a href="#">Another Widget</a></li>
+			</ul>
+		</li>
+		<li><a href="#">About</a></li>
+		<li><a href="#">Contact</a></li>
+	</ul>
+</div>
 
-            <li>
-              <a href="www.youtube.com/c/WingRiddenAngel">about</a>
-            </li>
+<script src="js/jquery-1.8.3.min.js"></script>
+<script src="js/menumaker.js"></script>
+<script type="text/javascript">
+	$("#cssmenu").menumaker({
+		title: "Menu",
+		format: "multitoggle"
+	});
+</script>
 
-            <li>
-              <a href="ferginger.tumblr.com">book</a>
-            </li>
+/* Navigation End */
 
-            <li>
-              <a class="nav-btn-container" href="#">
-                <img class="search-btn" src="images/search-icon.svg" alt="" />
-                <img class="close-btn" src="images/close-icon.svg" alt="" />
-              </a>
-            </li>
-          </ul>
-        </nav>
-      </div>
-    </div>
+/*script js*/
+
+<script type="text/javascript" src="js/menumaker.js"></script>
+
+<script type="text/javascript">
+	$("#cssmenu").menumaker();
+</script>
 
     <div class="header-container">
       <div class="wrapper">
