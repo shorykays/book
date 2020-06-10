@@ -7,10 +7,9 @@
 <div align="center">
       <a href="https://youtu.be/79w0T1jmgoQ">
      <img 
-      src="https://youtu.be/79w0T1jmgoQ/0.jpg" 
+      src="https://i.ytimg.com/vi/79w0T1jmgoQ/maxresdefault.jpg" 
       alt="Cyber Bird" 
       style="width:100%;">
       </a>
     </div>
 
-<iframe width="784" height="441" src="https://www.youtube.com/embed/79w0T1jmgoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
