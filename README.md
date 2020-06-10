@@ -6,7 +6,7 @@
 
 <font size="4">
 
-<p class=Note to self: Never get drunk & listen to this. It gives you an emotional high on memories past</p>
+<h1><p class=Note to self: Never get drunk & listen to this. It gives you an emotional high on memories past</p>
 <div class="scanlines"></div> </h1>
 
 
