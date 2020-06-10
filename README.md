@@ -29,6 +29,6 @@ Caso vocês queiram por um search-box o js já está configurado.
               </a>
 			  
 			  
-			   <p style="color:black; font-family: 'Raleway', sans-serif; size: "4">
-              Copyright (c) 2020 Torukia - www.github.com/shorykays
-            </p>
+
+  <p style="color:black; font-family: 'Raleway', sans-serif; size: "4">Copyright (c) 2020 Torukia - www.github.com/shorykays</p>
+           
