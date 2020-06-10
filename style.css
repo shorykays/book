@@ -3,6 +3,12 @@
   margin: 0;
 }
 
+h1 {
+    font-size: 40px;
+    line-height: 10px;
+  }
+  
+
 body {
   font-family: "Roboto", sans-serif;
 }
@@ -117,7 +123,7 @@ header a:hover {
 }
 
 .social-icons a {
-  margin: 0 24px;
+  margin: 0 8px;
 }
 
 .social-icons a:nth-of-type(1) {
