@@ -1,11 +1,11 @@
 # cyber bird project.
 
 
-
+<body>
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&display=swap');
        </style>
-
+</body>
 <font size="4">
 
 <h1>Note to self: Never get drunk & listen to this. It gives you an emotional high on memories past</h1>
