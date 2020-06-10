@@ -1,4 +1,4 @@
-# Modern-Homepage-from-Figma-Design
+# cyber bird project.
 
-Hi this is the source code of my tutorial on converting Figma design to a real website.<br/><br/>
-Here is the link for the tutorial playlist: https://www.youtube.com/watch?v=IoufGbyblIY&list=PL0-e1OMq5RP4SspVeenLKzldN_IZhZKSy
+Note to self: Never get drunk & listen to this. It gives you an emotional high on memories past.
+<iframe width="784" height="441" src="https://www.youtube.com/embed/79w0T1jmgoQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
