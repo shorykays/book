@@ -117,16 +117,9 @@ header a:hover {
 
 /* Social Icons */
 
-.fl-page-header-primary .fl-social-icons .fa-stack  {
-    font-size: 30px;
-    width: 80px;
-}
-.fl-page-header-content .fl-social-icons {
-    margin-right: 20px !important;
-}
 
 .social-icons {
-  display: flex;
+  display: grid;
   align-items: center;
 }
 
