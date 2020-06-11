@@ -1,0 +1,72 @@
+body {
+  background: #fff;
+}
+
+.profile {
+  position: relative;
+  margin: calc(50vh - 75px) auto 0;
+  border-radius: 50%;
+  width: 150px;
+	height: 150px;
+  background: url('https://i.pinimg.com/736x/9a/c4/0a/9ac40a94649f35f348d6a2877752eaf0.jpg') 0 0 no-repeat;
+  background-size: 454px 150px;
+  background-repeat: no-repeat;
+  -webkit-animation: focus ease-in-out infinite 7s;
+  -moz-animation: focus ease-in-out infinite 7s;
+  animation: focus ease-in-out infinite 7s;
+  -webkit-filter: grayscale(70%);
+  filter: grayscale(70%);
+}
+
+.hello {
+  position: absolute;
+  top: -60px;
+  left: -60%;
+  margin-right: -0.1em;
+  padding: 10px 15px;
+  border-radius: 7px;
+  background: #ddd;
+  color: #555;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  letter-spacing: 0.1em;
+}
+
+.hello::before {
+  content: ' ';
+  position: absolute;
+  bottom: -10px;
+  right: 20px;
+  border-left: 20px solid transparent;
+  border-right: 0px solid transparent;
+  border-top: 15px solid #ddd;
+  width: 0; 
+  height: 0; 
+  
+}
+
+@keyframes focus {
+    0% { background-position: -1372px -444px; }
+    5% { background-position: -1372px -444px; }
+    10% { background-position: -310px -176px; }
+    15% { background-position: -310px -176px; }
+    20% { background-position: -1267px -189px; }
+    25% { background-position: -1267px -189px; }
+    30% { background-position: -417px -499px; }
+    35% { background-position: -417px -499px; }
+    40% { background-position: -1150px -193px; }
+    45% { background-position: -1150px -193px; }
+    50% { background-position: -606px -514px; }
+    55% { background-position: -606px -514px; }
+    60% { background-position: -1168px -492px; }
+    65% { background-position: -1168px -492px; }
+    60% { background-position: -410px -223px; }
+    65% { background-position: -410px -223px; }
+    70% { background-position: -1597px -207px; }
+    75% { background-position: -1597px -207px; }
+    80% { background-position: -977px -490px; }
+    85% { background-position: -977px -490px; }
+    90% { background-position: -935px -281px; }
+    95% { background-position: -935px -281px; }
+    100% { background-position: -1372px -444px; }
+}
